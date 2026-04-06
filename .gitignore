@@ -1,0 +1,16 @@
+node_modules/
+**/node_modules/
+.env
+**/.env
+*.log
+**/*.log
+.next/
+**/.next/
+test-results/
+.DS_Store
+dist/
+**/dist/
+build/
+**/build/
+*.mp4
+**/*.mp4
