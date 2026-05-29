@@ -1,0 +1,29 @@
+ID,Product Name,Category,Price (INR),Tax Rate (%),Description,Image URL/Path
+121,Filter Coffee,Beverages,60,5,Fresh Filter Coffee,/products/beverages.png
+124,Fresh Lime Soda,Beverages,80,5,Fresh Fresh Lime Soda,/products/beverages.png
+122,Mango Lassi,Beverages,100,5,Fresh Mango Lassi,/products/beverages.png
+120,Masala Chai,Beverages,40,5,Fresh Masala Chai,/products/beverages.png
+123,Sweet Lassi,Beverages,80,5,Fresh Sweet Lassi,/products/beverages.png
+127,Aloo Paratha,Breakfast,100,5,Fresh Aloo Paratha,/products/breakfast.png
+126,Idli Sambar,Breakfast,80,5,Fresh Idli Sambar,/products/breakfast.png
+125,Masala Dosa,Breakfast,120,5,Fresh Masala Dosa,/products/breakfast.png
+128,Poha,Breakfast,60,5,Fresh Poha,/products/breakfast.png
+129,Upma,Breakfast,70,5,Fresh Upma,/products/breakfast.png
+133,Gajar Halwa,Desserts,100,5,Fresh Gajar Halwa,/products/desserts.png
+130,Gulab Jamun,Desserts,80,5,Fresh Gulab Jamun,/products/desserts.png
+132,Jalebi,Desserts,60,5,Fresh Jalebi,/products/desserts.png
+131,Rasgulla,Desserts,70,5,Fresh Rasgulla,/products/desserts.png
+134,Rasmalai,Desserts,120,5,Fresh Rasmalai,/products/desserts.png
+138,Butter Chicken,Main Course,320,5,Fresh Butter Chicken,/products/main_course.png
+140,Butter Naan,Main Course,50,5,Fresh Butter Naan,/products/main_course.png
+136,Dal Makhani,Main Course,220,5,Fresh Dal Makhani,/products/main_course.png
+139,Palak Paneer,Main Course,260,5,Fresh Palak Paneer,/products/main_course.png
+135,Paneer Butter Masala,Main Course,280,5,Fresh Paneer Butter Masala,/products/main_course.png
+137,Veg Biryani,Main Course,250,5,Fresh Veg Biryani,/products/main_course.png
+142,Chole Bhature,Snacks,150,5,Fresh Chole Bhature,/products/snacks.png
+147,Dahi Vada,Snacks,90,5,Fresh Dahi Vada,/products/snacks.png
+146,Masala Maggi,Snacks,80,5,Fresh Masala Maggi,/products/snacks.png
+143,Pani Puri,Snacks,60,5,Fresh Pani Puri,/products/snacks.png
+144,Pav Bhaji,Snacks,120,5,Fresh Pav Bhaji,/products/snacks.png
+141,Samosa,Snacks,40,5,Fresh Samosa,/products/snacks.png
+145,Vada Pav,Snacks,50,5,Fresh Vada Pav,/products/snacks.png
