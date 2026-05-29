@@ -36,6 +36,7 @@ CREATE TABLE IF NOT EXISTS products (
     rating DECIMAL(3, 1) DEFAULT 0,
     active BOOLEAN DEFAULT TRUE,
     variants JSONB DEFAULT '[]'::jsonb,
+    image_url TEXT,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 

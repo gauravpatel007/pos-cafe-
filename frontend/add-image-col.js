@@ -1,8 +1,10 @@
 const { Client } = require('pg');
 
 async function run() {
+  const connectionString = process.env.DATABASE_URL || 'postgresql://postgres@localhost:5432/odoo_pos_cafe';
   const client = new Client({
-    connectionString: 'postgresql://postgres@localhost:5432/odoo_pos_cafe'
+    connectionString: connectionString,
+    ssl: connectionString.includes('localhost') || connectionString.includes('127.0.0.1') ? false : { rejectUnauthorized: false }
   });
   await client.connect();
 

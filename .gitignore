@@ -7,3 +7,5 @@ test-results/
 dist/
 build/
 *.mp4
+
+/generated/prisma
